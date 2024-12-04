@@ -1,3 +1,5 @@
 This is my another file.
 
+Some feature text.
 Bug resolved.
+
